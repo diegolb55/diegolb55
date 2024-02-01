@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s GitHub Profile 🚀
+# Welcome to Diego's GitHub Profile 🚀
 
-Hey there! 👋 I'm [Your Name], a passionate software engineering student who finds joy in crafting exceptional web experiences. When I'm not immersed in the world of code, you'll probably find me enjoying the beach, soaking up the sun, and riding the waves.
+Hey there! 👋 I'm Diego Lugo Bendezu, a passionate software engineering student who finds joy in crafting exceptional web experiences. When I'm not immersed in the world of code, you'll probably find me enjoying the beach, soaking up the sun, and riding the waves.
 
 ## 🌐 Web Development Enthusiast
 I thrive on turning ideas into reality through the power of web development. Whether it's building sleek and responsive user interfaces or diving deep into the backend, I love the challenge of creating seamless online experiences.
